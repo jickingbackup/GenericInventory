@@ -1,0 +1,10 @@
+E:\_AJR Soft Projects\UnitOfWork_Complex\JickingDataApplicationFramework\DataAccessObjects\bin\Debug\DataAccessObjects.dll.config
+E:\_AJR Soft Projects\UnitOfWork_Complex\JickingDataApplicationFramework\DataAccessObjects\bin\Debug\DataAccessObjects.dll
+E:\_AJR Soft Projects\UnitOfWork_Complex\JickingDataApplicationFramework\DataAccessObjects\bin\Debug\DataAccessObjects.pdb
+E:\_AJR Soft Projects\UnitOfWork_Complex\JickingDataApplicationFramework\DataAccessObjects\bin\Debug\EntityFramework.dll
+E:\_AJR Soft Projects\UnitOfWork_Complex\JickingDataApplicationFramework\DataAccessObjects\bin\Debug\EntityFramework.SqlServer.dll
+E:\_AJR Soft Projects\UnitOfWork_Complex\JickingDataApplicationFramework\DataAccessObjects\bin\Debug\EntityFramework.xml
+E:\_AJR Soft Projects\UnitOfWork_Complex\JickingDataApplicationFramework\DataAccessObjects\bin\Debug\EntityFramework.SqlServer.xml
+E:\_AJR Soft Projects\UnitOfWork_Complex\JickingDataApplicationFramework\DataAccessObjects\obj\Debug\DataAccessObjects.dll
+E:\_AJR Soft Projects\UnitOfWork_Complex\JickingDataApplicationFramework\DataAccessObjects\obj\Debug\DataAccessObjects.pdb
+E:\_AJR Soft Projects\UnitOfWork_Complex\JickingDataApplicationFramework\DataAccessObjects\obj\Debug\DataAccessObjects.csprojResolveAssemblyReference.cache
