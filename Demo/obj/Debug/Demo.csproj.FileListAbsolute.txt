@@ -27,7 +27,6 @@ E:\_AJR Soft Projects\AJRSOFT_Inventory\Demo\bin\Debug\DataAccessObjects.pdb
 E:\_AJR Soft Projects\AJRSOFT_Inventory\Demo\bin\Debug\EntityFramework.xml
 E:\_AJR Soft Projects\AJRSOFT_Inventory\Demo\bin\Debug\EntityFramework.SqlServer.xml
 E:\_AJR Soft Projects\AJRSOFT_Inventory\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
-E:\_AJR Soft Projects\AJRSOFT_Inventory\Demo\obj\Debug\Demo.Form1.resources
 E:\_AJR Soft Projects\AJRSOFT_Inventory\Demo\obj\Debug\Demo.ProductDetailsForm.resources
 E:\_AJR Soft Projects\AJRSOFT_Inventory\Demo\obj\Debug\Demo.ProductForm.resources
 E:\_AJR Soft Projects\AJRSOFT_Inventory\Demo\obj\Debug\Demo.Properties.Resources.resources
